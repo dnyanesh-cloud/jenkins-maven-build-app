@@ -170,7 +170,7 @@ git push origin master
 
 Save
 
-<img src="maven-test" width="600">
+<img src="maven-test.png" width="600">
 
 ---
 
